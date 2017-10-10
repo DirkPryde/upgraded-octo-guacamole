@@ -1,0 +1,21 @@
+Group Assignment: Project Stabby Stab
+Game Description:
+	The game will be a “twin-stick” style shooter with a top-down camera. The twin-stick style refers to using WASD to control the character and the mouse will control where the character shoots/uses their abilities. The player will have to defeat waves of enemies that spawn on and off screen, and some enemies will be more difficult to defeat than others. Movement will be absolute rather than relative –i.e. pressing W will always move the character towards the top of the screen.
+The map will be kept relatively small (i.e. arena style) but also large enough that the whole map does not appear on the screen at once.
+Win Condition:
+	The player will need to survive for a number of waves of enemies, each steadily increasing in difficultly.
+Lose Condition:
+The player will lose the game when their health reaches 0. Should time allow, an additional objective to protect may be included.
+Game Mechanics:
+	The player character will have a weapon that shoots at the location of the mouse (range permitting). The player will have to deal damage to enemies to kill them whilst avoiding taking damage themselves. Skill-shot abilities will be available to the character (potentially via powerups or unlocking them when the character achieves a certain milestone). Enemies will spawn periodically during the waves and different types of enemies will be included so that the player is forced to change tactics to defeat them.
+GUI:
+	Health, wave number, a timer and skill-shot cooldown/progress will be shown on screen. Enemies killed will also be tracked and displayed in some manner.
+Assets:
+Models and textures are required for the following: The arena gameplay area/map, the player character, enemies and the GUI. Particle effects are required for explosions, weapon effects. Sounds can be added to enhance the above items. Terrain will likely be done by hand with boundaries defined by models.
+Development Plan:
+Firstly, the arena and player character/camera movement will be prototyped and iterated on until it is correct.
+Placeholder models will be used for the PC and AI whilst they are being developed.
+Gameplay mechanics will be done next – i.e. shooting, enemy spawns, skillshots.
+At this point art can begin to be integrated into the game, for models and UI. 
+Gameplay testing will be done at each stage.
+The final stage will be a basic polish pass and adding more advanced effects and art.
