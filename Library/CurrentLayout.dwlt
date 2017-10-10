@@ -442,9 +442,9 @@ MonoBehaviour:
     height: 626
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e260000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 76fbffff00000000
+    m_ExpandedIDs: 12fcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -623,20 +623,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\s171474\Documents\Git Repo\GDF Team Project\upgraded-octo-guacamole\Stabby
-    Stab
+  m_LastProjectPath: C:\Users\s171474\Documents\Git Repo\GDF Team Project\upgraded-octo-guacamole
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4e260000
-    m_LastClickedID: 9806
-    m_ExpandedIDs: 0e260000ffffff7f
+    m_SelectedIDs: 5c260000
+    m_LastClickedID: 9820
+    m_ExpandedIDs: 00000000ee250000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +663,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000ee250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
